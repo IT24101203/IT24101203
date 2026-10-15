@@ -125,9 +125,27 @@ A web-based blood donation management system designed to streamline donor regist
 - University web development project.
 - Repository: [View Project](https://github.com/IT24101203/Web-Blood-Donation-management-system)
 
-**MERN Item Manager**
-- JavaScript-based development project.
-- Repository: [View Project](https://github.com/IT24101203/mern-item-manger)
+### 🌊 Flood Detection and Monitoring System
+
+**Project Type:** Hackathon Team Project  
+**Role:** Water Level Monitoring & Emergency Reporting Developer
+
+A web-based flood monitoring platform designed to help users identify flood-affected locations through an interactive map and report potentially dangerous conditions.
+
+#### My Contributions
+
+- **Water Level Information:** Developed functionality to retrieve and display water level information to help users understand flood conditions.
+- **Critical Condition Reporting:** Implemented a user reporting feature that allows people to submit information about dangerous flood situations.
+- **Flood Awareness:** Contributed to making flood-related information accessible to users through the web platform.
+
+#### Key System Features
+
+- Interactive map displaying flood-affected areas
+- Water level information for monitoring flood conditions
+- User-submitted reports of critical situations
+- Location-based flood awareness
+
+**Project Type:** Collaborative Hackathon Project
 
 ### Currently Learning
 
