@@ -26,6 +26,8 @@ Currently, I'm seeking a Software Engineering Internship where I can apply my kn
 
 ### Projects
 
+
+
 **SME Management Platform**
 
 **Role:** Billing & Payments Module Developer  
@@ -75,6 +77,29 @@ A full-stack jewellery business management application developed using the MERN 
 **Project Repository:** [Saranya Jewellery Management System](https://github.com/IT24101153/Saranya-Jewellery)
 
 **Contribution:** Customer Care & Engagement Module (Group Project)
+
+### 📱 Saranya Jewellery — Mobile Application
+
+**Role:** React Native Mobile Developer | AI Chatbot Developer  
+**Project Type:** University Group Project
+
+A React Native mobile application designed to improve the jewellery shopping experience through customer engagement, intelligent assistance, and secure mobile access.
+
+#### My Contributions
+
+- **AI Chatbot Development:** Developed an AI-powered chatbot to assist customers with inquiries and provide automated support.
+- **Customer Care Management:** Implemented mobile functionality for reviewing and managing customer inquiries.
+- **Direct Messaging:** Developed features enabling communication between customers and customer support staff.
+- **Appointment Booking:** Implemented appointment scheduling functionality for jewellery store visits.
+- **Promotions & Offers:** Developed features for managing and displaying promotional offers.
+- **Biometric Authentication:** Collaborated with team members to implement fingerprint and facial biometric authentication.
+- **Mobile UI Development:** Developed mobile-friendly interfaces using React Native.
+
+#### Technologies Used
+
+React Native • JavaScript • AI Chatbot Integration • Biometric Authentication • Git & GitHub
+
+**Project Type:** Collaborative University Project
 
 **Web-Based Blood Donation Management System**
 
