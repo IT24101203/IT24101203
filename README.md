@@ -151,6 +151,4 @@ I'm eager to collaborate with experienced developers, contribute to meaningful s
 - 💻 **GitHub:** [IT24101203](https://github.com/IT24101203)
 - 📧 **Email:** [oshadhiherath.dev@gmail.com](mailto:oshadhiherath.dev@gmail.com)
 
----
 
-*✨ Always learning, building, and improving — one project at a time.*
