@@ -51,7 +51,52 @@ React • ASP.NET Core • C# • Flutter • Stripe • REST APIs • Git & Git
 
 **🌐 [Live Application](https://se-3090-se-002.vercel.app/)**
 
+### 💎 Saranya Jewellery Management System
+
+**Role:** Customer Care & Engagement Module Developer  
+**Project Type:** University Group Project
+
+A full-stack jewellery business management application developed using the MERN stack. The platform supports online shopping, inventory management, order processing, loyalty programs, and customer service operations.
+
+#### My Contributions
+
+- **Customer Inquiry Management:** Developed functionality to review, organize, and manage customer inquiries.
+- **Direct Customer Messaging:** Implemented customer messaging features to support communication between customers and customer care staff.
+- **Appointment Management:** Developed appointment booking and management functionality for jewellery store visits.
+- **Promotions & Offer Management:** Implemented functionality to manage promotional offers and customer engagement activities.
+
+#### Technologies Used
+
+- **Frontend:** React, Vite, JavaScript
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB Atlas
+- **Other Technologies:** REST APIs, Git & GitHub
+
+**Project Repository:** [Saranya Jewellery Management System](https://github.com/IT24101153/Saranya-Jewellery)
+
+**Contribution:** Customer Care & Engagement Module (Group Project)
+
 **Web-Based Blood Donation Management System**
+
+**Role:** Admin Module Developer  
+**Project Type:** University Group Project
+
+A web-based blood donation management system designed to streamline donor registration, blood donation requests, inventory tracking, and donation campaign management.
+
+#### My Contributions
+
+- **User Account Management:** Developed administrative functionality to manage user accounts and verify donor and recipient eligibility.
+- **Donation Request Management:** Implemented functionality to review, update, and approve blood donation requests.
+- **Donation & Inventory Reporting:** Developed reporting features to track blood availability, donation records, and inventory usage.
+- **Donation Campaign Management:** Implemented functionality to schedule and manage blood donation campaigns.
+
+####  Technologies Used
+
+- **Frontend:** HTML, CSS, Tailwind CSS
+- **Backend:** Java
+- **Database:** SQL
+
+**🔗 [View GitHub Repository](https://github.com/IT24101203/Web-Blood-Donation-management-system)**
 - University web development project.
 - Repository: [View Project](https://github.com/IT24101203/Web-Blood-Donation-management-system)
 
