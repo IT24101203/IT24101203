@@ -1,165 +1,156 @@
-# Hi there! 👋 I'm Oshadi
+# Hi there! 👋 I'm Oshadhi
 
-### Software Engineering Undergraduate | Aspiring Software Engineer
+### 👩‍💻 Software Engineering Undergraduate | Aspiring Software Engineer
 
-I'm a third-year Software Engineering undergraduate at SLIIT, passionate about developing practical software solutions and continuously improving my technical skills.
+I'm a third-year **Software Engineering undergraduate at the Sri Lanka Institute of Information Technology (SLIIT)**, passionate about developing practical, reliable, and user-friendly software solutions.
 
-I enjoy working on full-stack applications, mobile development, software architecture, and collaborative development projects.
+I have hands-on experience in **full-stack web development, mobile application development, REST API integration, software testing, and collaborative software projects**.
 
-Currently, I'm seeking a Software Engineering Internship where I can apply my knowledge, gain industry experience, and grow as a developer.
+Through university projects and hackathons, I've worked with technologies including **React, React Native, Java, ASP.NET Core, Node.js, Express.js, MongoDB, and Flutter**.
 
-###  Technical Skills
+🎯 **Currently seeking a Software Engineering Internship** where I can apply my technical knowledge, contribute to real-world projects, and grow as a software developer.
 
-**Languages:** Java, JavaScript, C#, SQL, Dart, 
+---
 
-**Frontend:** React, HTML, CSS
+## 🛠️ Technical Skills
 
-**Backend:** ASP.NET Core, Node.js
+| Category | Technologies & Skills |
+|---|---|
+| **Programming Languages** | Java, JavaScript, C#, Dart, SQL |
+| **Frontend Development** | React, HTML5, CSS3, Tailwind CSS, Vite |
+| **Backend Development** | Node.js, Express.js, ASP.NET Core, REST APIs |
+| **Mobile Development** | React Native, Flutter |
+| **Databases** | MongoDB, SQL Databases |
+| **Development Tools** | Git, GitHub, VS Code, Visual Studio, Android Studio |
+| **Software Engineering** | Object-Oriented Programming, Software Testing, Software Architecture, API Integration |
+| **Additional Experience** | Stripe Payment Integration, AI Chatbot Development, Biometric Authentication |
 
-**Mobile:** Flutter
+---
 
-**Databases:** SQL-based databases
+## 🚀 Featured Projects
 
-**Tools:** Git, GitHub, Visual Studio Code, Visual Studio, Android Studio
-
-**Software Engineering:** REST APIs, Software Testing, Object-Oriented Programming, Software Architecture
-
-### Projects
-
-
-
-**SME Management Platform**
+### 💳 1. SME Management Platform
 
 **Role:** Billing & Payments Module Developer  
-**Project Type:** University Group Project
+**Project Type:** University Group Project  
+**Technologies:** React, ASP.NET Core, C#, Flutter, Stripe, REST APIs
 
-A multi-tenant SaaS platform designed to help small and medium-sized businesses manage bookings, billing, inventory, and business operations.
+A multi-tenant SaaS platform designed to help small and medium-sized businesses manage bookings, billing, inventory, analytics, and business operations.
 
-#### My Contributions
-
-- **Billing & Invoice Management:** Developed functionality for creating and managing invoices and billing records.
+**My Contributions:**
+- **Billing & Invoice Management:** Developed functionality for creating, managing, and tracking customer invoices and billing records.
 - **Stripe Payment Integration:** Integrated Stripe payment workflows to support online transactions.
-- **Commission Rules:** Implemented configurable commission rules for billing calculations.
-- **Agentic AI for Billing:** Worked on AI-assisted billing analysis, anomaly identification, and approval workflows.
-- **Insurance Claims:** Developed billing-related functionality for handling insurance claims.
-- **Premium Subscription Billing:** Contributed to premium plan payment and subscription workflows.
-- **Testing:** Performed backend and frontend testing to validate billing functionality.
+- **Commission Rules:** Implemented configurable commission rules for calculating commissions within billing workflows.
+- **Agentic AI for Billing:** Worked on AI-assisted billing analysis, anomaly identification, and human-approval workflows.
+- **Insurance Claims:** Developed billing-related functionality for managing insurance claims.
+- **Premium Subscription Billing:** Contributed to premium subscription plans and payment management.
+- **Software Testing:** Performed frontend and backend testing to validate billing functionality.
 
-#### Technologies Used
+🔗 [View GitHub Repository](https://github.com/IT24101203/SE3090_SE002)  
+🌐 [View Live Application](https://se-3090-se-002.vercel.app/)
 
-React • ASP.NET Core • C# • Flutter • Stripe • REST APIs • Git & GitHub
+---
 
-**🔗 [View Project Repository](https://github.com/IT24101203/SE3090_SE002)**
+### 💎 2. Saranya Jewellery Management System — Web Application
 
-**🌐 [Live Application](https://se-3090-se-002.vercel.app/)**
+**Role:** Full-Stack Developer — Customer Care & Engagement Module  
+**Project Type:** University Group Project  
+**Technologies:** React, Vite, JavaScript, Node.js, Express.js, MongoDB Atlas, REST APIs
 
-### 💎 Saranya Jewellery Management System
+A full-stack MERN application developed to support jewellery business operations, including customer management, inventory, orders, loyalty programs, and customer service.
 
-**Role:** Customer Care & Engagement Module Developer  
-**Project Type:** University Group Project
+**My Contributions:**
+- **Customer Inquiry Management:** Developed frontend and backend functionality for reviewing, organizing, and managing customer inquiries.
+- **Direct Customer Messaging:** Implemented messaging functionality to support communication between customers and customer care staff.
+- **Appointment Management:** Developed functionality for scheduling and managing jewellery store appointments.
+- **Promotions & Offer Management:** Implemented features for managing promotional offers and customer engagement activities.
+- **Full-Stack Integration:** Connected React interfaces with Node.js and Express.js backend APIs to support customer care operations.
 
-A full-stack jewellery business management application developed using the MERN stack. The platform supports online shopping, inventory management, order processing, loyalty programs, and customer service operations.
+🔗 [View GitHub Repository](https://github.com/IT24101153/Saranya-Jewellery)
 
-#### My Contributions
+---
 
-- **Customer Inquiry Management:** Developed functionality to review, organize, and manage customer inquiries.
-- **Direct Customer Messaging:** Implemented customer messaging features to support communication between customers and customer care staff.
-- **Appointment Management:** Developed appointment booking and management functionality for jewellery store visits.
-- **Promotions & Offer Management:** Implemented functionality to manage promotional offers and customer engagement activities.
+### 📱 3. Saranya Jewellery — Mobile Application
 
-#### Technologies Used
+**Role:** React Native Developer | AI Chatbot Developer  
+**Project Type:** University Group Project  
+**Technologies:** React Native, JavaScript, AI Chatbot Integration, Biometric Authentication
 
-- **Frontend:** React, Vite, JavaScript
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB Atlas
-- **Other Technologies:** REST APIs, Git & GitHub
+A mobile application designed to improve the jewellery shopping experience through customer engagement, intelligent assistance, appointment management, and secure authentication.
 
-**Project Repository:** [Saranya Jewellery Management System](https://github.com/IT24101153/Saranya-Jewellery)
-
-**Contribution:** Customer Care & Engagement Module (Group Project)
-
-### 📱 Saranya Jewellery — Mobile Application
-
-**Role:** React Native Mobile Developer | AI Chatbot Developer  
-**Project Type:** University Group Project
-
-A React Native mobile application designed to improve the jewellery shopping experience through customer engagement, intelligent assistance, and secure mobile access.
-
-#### My Contributions
-
-- **AI Chatbot Development:** Developed an AI-powered chatbot to assist customers with inquiries and provide automated support.
+**My Contributions:**
+- **AI Chatbot Development:** Developed an AI-powered chatbot to provide automated assistance and respond to customer inquiries.
 - **Customer Care Management:** Implemented mobile functionality for reviewing and managing customer inquiries.
 - **Direct Messaging:** Developed features enabling communication between customers and customer support staff.
-- **Appointment Booking:** Implemented appointment scheduling functionality for jewellery store visits.
+- **Appointment Booking:** Implemented functionality for scheduling jewellery store appointments.
 - **Promotions & Offers:** Developed features for managing and displaying promotional offers.
 - **Biometric Authentication:** Collaborated with team members to implement fingerprint and facial biometric authentication.
-- **Mobile UI Development:** Developed mobile-friendly interfaces using React Native.
+- **Mobile UI Development:** Created mobile-friendly interfaces using React Native.
 
-#### Technologies Used
+---
 
-React Native • JavaScript • AI Chatbot Integration • Biometric Authentication • Git & GitHub
-
-**Project Type:** Collaborative University Project
-
-**Web-Based Blood Donation Management System**
+### 🩸 4. Web-Based Blood Donation Management System
 
 **Role:** Admin Module Developer  
-**Project Type:** University Group Project
+**Project Type:** University Group Project  
+**Technologies:** Java, HTML, CSS, Tailwind CSS, SQL
 
 A web-based blood donation management system designed to streamline donor registration, blood donation requests, inventory tracking, and donation campaign management.
 
-#### My Contributions
-
+**My Contributions:**
 - **User Account Management:** Developed administrative functionality to manage user accounts and verify donor and recipient eligibility.
 - **Donation Request Management:** Implemented functionality to review, update, and approve blood donation requests.
-- **Donation & Inventory Reporting:** Developed reporting features to track blood availability, donation records, and inventory usage.
-- **Donation Campaign Management:** Implemented functionality to schedule and manage blood donation campaigns.
+- **Donation & Inventory Reporting:** Developed reporting features to monitor blood availability, donation records, and inventory usage.
+- **Donation Campaign Management:** Implemented functionality for scheduling and managing blood donation campaigns.
 
-####  Technologies Used
+🔗 [View GitHub Repository](https://github.com/IT24101203/Web-Blood-Donation-management-system)
 
-- **Frontend:** HTML, CSS, Tailwind CSS
-- **Backend:** Java
-- **Database:** SQL
+---
 
-**🔗 [View GitHub Repository](https://github.com/IT24101203/Web-Blood-Donation-management-system)**
-- University web development project.
-- Repository: [View Project](https://github.com/IT24101203/Web-Blood-Donation-management-system)
+### 🌊 5. Flood Detection and Monitoring System
 
-### 🌊 Flood Detection and Monitoring System
+**Role:** Water Level Monitoring & Emergency Reporting Developer  
+**Project Type:** Hackathon Team Project
 
-**Project Type:** Hackathon Team Project  
-**Role:** Water Level Monitoring & Emergency Reporting Developer
+A web-based flood monitoring platform designed to help users identify flood-affected areas through an interactive map and report potentially dangerous conditions.
 
-A web-based flood monitoring platform designed to help users identify flood-affected locations through an interactive map and report potentially dangerous conditions.
+**My Contributions:**
+- **Water Level Monitoring:** Developed functionality to retrieve and display water level information to help users assess flood conditions.
+- **Critical Condition Reporting:** Implemented functionality allowing users to submit reports about dangerous flood situations.
+- **Flood Awareness:** Contributed to making flood-related information accessible through the web platform.
 
-#### My Contributions
-
-- **Water Level Information:** Developed functionality to retrieve and display water level information to help users understand flood conditions.
-- **Critical Condition Reporting:** Implemented a user reporting feature that allows people to submit information about dangerous flood situations.
-- **Flood Awareness:** Contributed to making flood-related information accessible to users through the web platform.
-
-#### Key System Features
-
-- Interactive map displaying flood-affected areas
-- Water level information for monitoring flood conditions
-- User-submitted reports of critical situations
+**Key Features:**
+- Interactive map displaying flood-affected locations
+- Water level information for flood monitoring
+- User-submitted emergency and critical condition reports
 - Location-based flood awareness
 
-**Project Type:** Collaborative Hackathon Project
+---
 
-### Currently Learning
+## 🌱 Currently Learning
 
-- Advanced full-stack development
-- Software design patterns and architecture
-- Automated software testing
-- Cloud and DevOps fundamentals
+- Advanced Full-Stack Web Development
+- Software Design Patterns and Architecture
+- Automated Software Testing
+- Cloud Computing and DevOps Fundamentals
+- AI Integration in Software Applications
 
-### Career Goal
+---
 
-To become a skilled Software Engineer who develops reliable, maintainable, and user-friendly software applications.
+## 🎯 Career Objective
 
-### Connect With Me
+My goal is to become a skilled Software Engineer who designs and develops **reliable, scalable, maintainable, and user-friendly applications**.
 
-- **GitHub:** [IT24101203](https://github.com/IT24101203)
-- **LinkedIn:** www.linkedin.com/in/oshadhi-herath-abb796301
-- **Email:** oshadhiherath.dev@gmail.com
+I'm eager to collaborate with experienced developers, contribute to meaningful software projects, and continuously improve my technical and problem-solving skills.
+
+---
+
+## 📫 Connect With Me
+
+- 💼 **LinkedIn:** [Oshadhi Herath](https://www.linkedin.com/in/oshadhi-herath-abb796301/)
+- 💻 **GitHub:** [IT24101203](https://github.com/IT24101203)
+- 📧 **Email:** [oshadhiherath.dev@gmail.com](mailto:oshadhiherath.dev@gmail.com)
+
+---
+
+*✨ Always learning, building, and improving — one project at a time.*
