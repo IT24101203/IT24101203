@@ -27,6 +27,7 @@ Currently, I'm seeking a Software Engineering Internship where I can apply my kn
 ### Projects
 
 **SME Management Platform**
+
 **Role:** Billing & Payments Module Developer  
 **Project Type:** University Group Project
 
